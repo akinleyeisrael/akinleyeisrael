@@ -2,12 +2,10 @@
 <h2 align="left"><h2 align="left">Hi 👋! My name is Akinola Akinleye and I'm from Nigeria and I graduated with a degree in computer programming from Algonquin College in Ottawa, Canada. My focus is primarily frontend development but trust me I also dabble in backend developement. One fun fact about me is that I am also a cinematographer. I have a personal toy my video camera</h2>
 
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmv9atyJqYcIMJMjHOWHBx0vXG70niFT4q4ioD1zaDlw&s"  />
 
 
 
 ## Languages and Tools 
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
