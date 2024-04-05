@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<p align="left"><h2 align="left">Hi 👋! My name is Akinola Akinleye and I'm from Nigeria and I graduated with a degree in computer programming from Algonquin College in Ottawa, Canada. My focus is primarily frontend development but trust me I also dabble in backend developement. One fun fact about me is that I am also a cinematographer. I have a personal toy, my video camera.</p>
+<p align="left">Hi 👋! My name is Akinola Akinleye and I'm from Nigeria and I graduated with a degree in computer programming from Algonquin College in Ottawa, Canada. My focus is primarily frontend development but trust me I also dabble in backend developement. One fun fact about me is that I am also a cinematographer. I have a personal toy, my video camera.</p>
 
 
 
