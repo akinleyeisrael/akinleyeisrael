@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Akinola Akinleye and I'm from Nigeria and I graduated with a degree in computer programming from Algonquin College in Ottawa, Canada. My focus is primarily frontend development but trust me I also dabble in backend developement. One fun fact about me is that I am also a cinematographer. I have a personal toy my video camera</h2>
+<h2 align="left"><h2 align="left">Hi 👋! My name is Akinola Akinleye and I'm from Nigeria and I graduated with a degree in computer programming from Algonquin College in Ottawa, Canada. My focus is</h2>
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -56,6 +57,7 @@
 
 ###
 
+
 <div align="left">
  <a href="https://www.instagram.com/mrjustizzy">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -69,42 +71,6 @@
 <a href="https://linkedin.com/in/akinolaakinleye">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mrjustizzy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mrjustizzy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
